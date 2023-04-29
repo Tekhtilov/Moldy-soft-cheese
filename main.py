@@ -7,7 +7,7 @@ import logging
 
 telebot.logger.setLevel(logging.DEBUG)
 
-bot = telebot.TeleBot('6176147461:AAHlfAvtHsoPW_1GWRT6bKVZXm0CMD5Trfo')
+bot = telebot.TeleBot('yyyyyyy:xxxxxxxxxxx')
 
 conn = psycopg2.connect(
     host="127.0.0.1",
