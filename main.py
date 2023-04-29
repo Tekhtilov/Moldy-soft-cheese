@@ -11,9 +11,9 @@ bot = telebot.TeleBot('6176147461:AAHlfAvtHsoPW_1GWRT6bKVZXm0CMD5Trfo')
 
 conn = psycopg2.connect(
     host="127.0.0.1",
-    database="movies",
-    user="postgres",
-    password="Aegis1885"
+    database="xxxx",
+    user="xxxx",
+    password="xxxx"
 )
 
 CHECK_MARK = u'\U00002705'  # ✅
